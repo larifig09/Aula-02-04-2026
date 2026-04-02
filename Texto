@@ -1,3 +1,11 @@
 https://github.com/larifig09/Aula-02-04-2026
 git clone https://github.com/larifig09/Aula-02-04-2026
 git status
+
+git add . 
+
+git status
+
+git commit -m "alterando o arquivo texto"
+
+git push
